@@ -30,7 +30,6 @@ After setup the running environment, download and unzip the code.
 
 ## 3. Demo
 We provide  Raman spectra dataset for model inferencing.
-
 Run the Main.py in PyCharm, you will obtain the denoised Raman spetra, and you can plot the curves in matplotlib.pyplot, Matlab, or Origin to check the spectra before and after denoising.
 
 ## 4. Instructions for use
