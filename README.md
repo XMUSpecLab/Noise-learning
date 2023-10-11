@@ -4,18 +4,37 @@
 *This repository is still under construction.*
 1. System requirements
 2. Installation guide
-3. Demon
+3. Demo
 4. Instructions for use
 
 ## 1. System requirements
-python = 3.9
-pytorch = 1.6
-PyCharm = 
+python = 3.8.13
+
+pytorch = 1.5
+
+PyCharm Community = 2022.1.3 
+
 torchvision
+
 scipy
+
 matplotlib.pyplot
+
 math
+
 random
+
 os
 
 ## 2. Installation guide
+We recommend to use anaconda to install the python environment and dependencies.The typical install time should be less than one hour.
+
+After setup the running environment, download and unzip the code.
+
+## 3. Demo
+We have provided  Raman specra dataset for demonstrating the model inferencing.
+
+Run the Main.Py in PyCharm you will obtain the denoised Raman spetra, and you can plot the curve in matplotlib.pyplot, Matlab, or Origin to check the spectra with and without denoising.
+
+## 4. Instructions for use
+
