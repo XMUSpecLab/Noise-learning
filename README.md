@@ -1,9 +1,21 @@
-# Noise-learning
+# Supplementary code for "Noise Learning of Instruments for High-contrast, High-resolution and Fast Hyperspectral Microscopy and Nanoscopy"
 
-A Noise learning method for denoising hyperspectral Raman data.
+**Noise-learning** is a python package containing code for denoising micro- and nano- Raman spectra. 
+*This repository is still under construction.*
+1. System requirements
+2. Installation guide
+3. Demon
+4. Instructions for use
 
-The code is wrote in Python3.X with a PyTorch framework.
+## 1. System requirements
+python = 3.9
+pytorch = 1.6
+PyCharm = 
+torchvision
+scipy
+matplotlib.pyplot
+math
+random
+os
 
-A novel convolutional neural network, AUnet, is used as the deep learing model to learn the instrumental noise of each hyperspectral Raman microscopy.
-
-The AUnet use 1-D Unet as the backbone, and synergize the spatial and channel attention module to optimize the network performance.
+## 2. Installation guide
