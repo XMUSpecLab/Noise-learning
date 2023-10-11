@@ -8,26 +8,30 @@
 4. Instructions for use
 
 ## 1. System requirements
-python = 3.8.13
+software:
 
-pytorch = 1.5
+*Python = 3.8.13
 
-PyCharm Community = 2022.1.3 
+*PyTorch = 1.5
 
-torchvision
+*PyCharm Community = 2022.1.3 
 
-scipy
+Python packages:
 
-matplotlib.pyplot
+*scipy
 
-math
+*matplotlib.pyplot
 
-random
+*math
 
-os
+*random
+
+*os
 
 ## 2. Installation guide
-We recommend to use anaconda to install the python environment and dependencies.The typical install time should be less than one hour.
+We recommend to use anaconda to install the python environment and relevant python packages. 
+
+The typical install time should be around one hour.
 
 After setup the running environment, download and unzip the code.
 
