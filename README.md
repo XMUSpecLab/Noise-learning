@@ -8,25 +8,25 @@
 4. Instructions for use
 
 ## 1. System requirements
-software:
+**software:**
 
-*Python = 3.8.13
+- Python = 3.8.13
 
-*PyTorch = 1.5
+- PyTorch = 1.5
 
-*PyCharm Community = 2022.1.3 
+- PyCharm Community = 2022.1.3 
 
-Python packages:
+**Python packages:**
 
-*scipy
+- scipy
 
-*matplotlib.pyplot
+- matplotlib.pyplot
 
-*math
+- math
 
-*random
+- random
 
-*os
+- os
 
 ## 2. Installation guide
 We recommend to use anaconda to install the python environment and relevant python packages. 
