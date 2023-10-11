@@ -8,7 +8,7 @@
 4. Instructions for use
 
 ## 1. System requirements
-**software:**
+**Software:**
 
 -  Python = 3.8.13
 
