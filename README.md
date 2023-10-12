@@ -15,6 +15,7 @@
 
 **Python packages:**
 -  PyTorch = 1.5
+-  numpy
 -  scipy
 -  matplotlib.pyplot
 -  math
@@ -22,7 +23,7 @@
 -  os
 
 ## 2. Installation guide
-We recommend to use anaconda to install the python environment and relevant python packages. 
+We recommend the users to install the python environment and relevant python packages via Anaconda3. 
 
 The typical install time should be around one hour.
 
