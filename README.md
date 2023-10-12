@@ -30,9 +30,14 @@ The typical install time should be around one hour.
 After setup the running environment, download and unzip the code.
 
 ## 3. Demo
-We provide  Raman spectra dataset and pretrained AUnet model for model inferencing.
+We provide  Raman spectra dataset and pretrained AUnet model for model inferencing. Users can download them in the ***master*** branch of this repository.
 
-Download the pretrained checkpoint model, and the Raman spectra dataset, then run the **main.py** in PyCharm, you will obtain the denoised Raman spetra. 
+**Steps for runding demo:**
+
+1. Download the pretrained AUnet model and Raman spectra dataset.
+2. Set the model and test dataset path in the **config.py** script.
+3. Run the **main.py** in PyCharm (or other IDEs such as Vscode, Spyder, JupyterNotebook), you will obtain the denoised Raman spetra.
+
 The default output file type is *.mat that can be directly loaded in Matlab for visualization. You can also save the results as .txt files, and plot the curves in matplotlib.pyplot, or Origin to check the spectra before and after denoising.
 
 ## 4. Instructions for use
