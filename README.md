@@ -32,7 +32,7 @@ After setup the running environment, download and unzip the code.
 ## 3. Demo
 We provide  Raman spectra dataset and pretrained AUnet model for model inferencing.
 
-Download the pretrained checkpoint model, and the Raman spectra dataset, then run the **Main.py** in PyCharm, you will obtain the denoised Raman spetra. 
+Download the pretrained checkpoint model, and the Raman spectra dataset, then run the **main.py** in PyCharm, you will obtain the denoised Raman spetra. 
 The default output file type is *.mat that can be directly loaded in Matlab for visualization. You can also save the results as .txt files, and plot the curves in matplotlib.pyplot, or Origin to check the spectra before and after denoising.
 
 ## 4. Instructions for use
