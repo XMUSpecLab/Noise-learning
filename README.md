@@ -36,7 +36,7 @@ We provide  Raman spectra dataset and pretrained AUnet model for model inferenci
 
 1. Download the pretrained AUnet model and Raman spectra dataset.
 2. Set the model and test dataset path in the **config.py** script.
-3. Run the **main.py** in PyCharm (or other IDEs such as Vscode, Spyder, JupyterNotebook), you will obtain the denoised Raman spetra.
+3. Run the **main.py** in PyCharm (or other IDEs such as Vscode, Spyder, JupyterNotebook), you will obtain the denoised Raman spectra.
 
 The default output is .mat file that can be directly loaded in Matlab for visualization. You can also save the results as .npy or .txt files, and plot the curves in matplotlib.pyplot, or Origin to check the spectra before and after denoising.
 
